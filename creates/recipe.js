@@ -48,7 +48,7 @@ module.exports = {
     sample: {
       id: 1,
       createdAt: 1472069465,
-      name: 'Best Spagetti Ever',
+      name: 'Best Spaghetti Ever',
       authorId: 1,
       directions: '1. Boil Noodles\n2.Serve with sauce',
       style: 'italian'
